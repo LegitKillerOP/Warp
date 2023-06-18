@@ -1,0 +1,29 @@
+name: Warp
+version: '${project.version}'
+main: me.legit.warp.Warp
+
+commands:
+  setwarp:
+    description: Set a new Warp
+  warp:
+    description: Warp to a Warp
+  warplist:
+    description: See all warps
+    aliases:
+      - warps
+  deletewarp:
+    description: Delete a warp
+    aliases:
+      - delwarp
+      -
+permissions:
+  warp.*:
+    description: Allows you to use all commands
+  warp.setwarp:
+    description: Allows you to use the /setwarp command
+  warp.warp:
+    description: Allows you to use the /warp command
+  warp.warplist:
+    description: Allows you to use the /warps command
+  warp.deletewarp:
+    description: Allows you to use the /delwarp command
