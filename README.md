@@ -1,7 +1,6 @@
-                                                        -WARP PLUGIN-
-                                                    -MADE BY LEGIT KILLER-
-						    	
-							Features:
+      								MADE BY LEGIT
+      
+Features:
 1. All commands have permissions.
 2. Setup and delete warps easily!
 3. List your Warps and teleport to one of them with a command!
